@@ -1,7 +1,3 @@
-Aqui está um exemplo de README que você pode usar no portfólio da SRK Dev:
-
----
-
 # 🌟 SRK Dev - Tech Solutions
 
 Bem-vindo ao portfólio da **SRK Dev**! 🚀 Somos uma empresa dedicada a oferecer as melhores soluções tecnológicas para alavancar seu negócio. Nossa equipe é especializada em diversas áreas de desenvolvimento e estamos prontos para transformar suas ideias em realidade.
@@ -33,7 +29,3 @@ Estamos sempre abertos a novas oportunidades e parcerias. Se você quer saber ma
 - [💼 Visite nosso site](https://www.srkdev.com)
 - [📧 Envie-nos um e-mail](mailto:contato@srkdev.com)
 - [🔗 Conecte-se no LinkedIn](https://www.linkedin.com/company/srkdev)
-
----
-
-Você pode personalizar os links e adicionar mais badges de acordo com as tecnologias que sua empresa utiliza.

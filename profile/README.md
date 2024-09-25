@@ -26,6 +26,6 @@ Acreditamos que a transparência é chave para uma parceria de sucesso. Por isso
 
 Estamos sempre abertos a novas oportunidades e parcerias. Se você quer saber mais sobre como podemos ajudar seu negócio, entre em contato conosco!
 
-- [💼 Visite nosso site](https://www.srkdev.com)
-- [📧 Envie-nos um e-mail](mailto:contato@srkdev.com)
-- [🔗 Conecte-se no LinkedIn](https://www.linkedin.com/company/srkdev)
+- [💼 Visite nosso site](https://www.srkdev.com.br)
+- [📧 Envie-nos um e-mail](mailto:contato@srkdev.com.br)
+- [🔗 Conecte-se no LinkedIn](https://www.linkedin.com/company/srkdevbr)
